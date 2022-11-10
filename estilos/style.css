@@ -1,0 +1,10 @@
+ol {
+    list-style-type: disc;
+    color: burlywood
+  }
+
+  p {
+    font-family:serif;
+    font-size: x-large;
+    color: darkkhaki;
+    background-color: grey;  }
