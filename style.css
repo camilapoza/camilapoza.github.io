@@ -1,0 +1,15 @@
+ol {
+    list-style-type: disc;
+
+    font-size: large;
+  }
+
+  p {
+    font-family:serif;
+    font-size: x-large;
+    color: darkkhaki;
+    background-color: peachpuff;  }
+
+    body {color: burlywood }
+
+    h1 {text-align: center;}
